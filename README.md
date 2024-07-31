@@ -1,9 +1,8 @@
-# AI Mental Health Companion
+# Alyssa - An AI Mental Health Companion
 
-AI Mental Health Companion is an innovative application designed to provide mental health support through the power of Artificial Intelligence. This app leverages state-of-the-art Large Language Models (LLMs) and other advanced technologies to offer personalized mental health guidance, coping strategies, and resources. Developed by a team of four passionate students from [Your College Name] for a hackathon, this app aims to make mental health support more accessible and effective.
+Alyssa is an innovative application designed to provide mental health support through the power of Artificial Intelligence. This app leverages state-of-the-art Large Language Models (LLMs) and other advanced technologies to offer personalized mental health guidance, coping strategies, and resources. Developed by a team of four passionate students from ICT Ganpat University for a hackathon, this app aims to make mental health support more accessible and effective.
 
 ## Table of Contents
-- [Overview](#overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
@@ -22,18 +21,19 @@ AI Mental Health Companion is an innovative application designed to provide ment
 
 ## Tech Stack
 - **Frontend:** React, Next.js, TypeScript
-- **Backend:** Node.js, Express
-- **AI:** OpenAI GPT-4, Natural Language Processing
-- **Database:** MongoDB
+- **Backend:** Node.js, React
+- **AI:** Llama3.1, Natural Language Processing
+- **Database:** AWS RDS
 - **Authentication:** Clerk
-- **Hosting:** Vercel
-- **Additional Tools:** Git, Docker, Jest (for testing)
+- **Hosting:** Akash Networks, IBM Cloud
+- **Additional Tools:** Git, Docker
 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ai-mental-health-companion.git
-    cd ai-mental-health-companion
+    git clone https://github.com/kariyaraj/mhc2.git
+    mv mhc2 alyssa
+    cd alyssa
     ```
 2. Install dependencies:
     ```bash
@@ -57,10 +57,10 @@ AI Mental Health Companion is an innovative application designed to provide ment
 - **Explore Resources:** Access a variety of mental health resources and exercises.
 
 ## Team
-- Teammate 1 - [GitHub Profile](https://github.com/kariyaraj)
-- Teammate 2 - [GitHub Profile](https://github.com/dk3775)
-- Teammate 3 - [GitHub Profile](https://github.com/godspeed1709)
-- Teammate 4 - [GitHub Profile](https://github.com/niityam)
+- Raj Kariya - [GitHub Profile](https://github.com/kariyaraj)
+- Dhyey Kathiriya - [GitHub Profile](https://github.com/dk3775)
+- Srijit Das - [GitHub Profile](https://github.com/godspeed1709)
+- Nityam Bhojani - [GitHub Profile](https://github.com/niityam)
 
 ## Contributing
 We welcome contributions from the community. Please follow these steps:
